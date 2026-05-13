@@ -17,7 +17,7 @@ The artwork we are working from is **Water Lilies by Claude Monet**. Monet’s W
 
 ![teamLab Inspiration](readmeImages/teamlab.jpg)
 
-![Water Ripple Inspiration](readmeImages/ripple.jpg)
+![Water Ripple Inspiration](readmeImages/ripple.png)
 
 ---
 
